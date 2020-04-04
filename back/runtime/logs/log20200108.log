@@ -1,0 +1,8 @@
+[DEBUG][category.go:20]2020/01/08 14:32:05 [11111结构体： {0 0 豪饮酒水 false 0}]
+[DEBUG][category.go:21]2020/01/08 14:32:05 [11111结构体& 0xc00007a6c0]
+[DEBUG][greens.go:93]2020/01/08 14:32:05 [22222 结构体： 0xc00007a6c0]
+[DEBUG][greens.go:94]2020/01/08 14:32:05 [22222 结构体*： {0 1 豪饮酒水 false 1578465125}]
+[DEBUG][greens.go:103]2020/01/08 14:39:12 [333333:data  0xc0002fe180]
+[DEBUG][greens.go:104]2020/01/08 14:39:12 [333333:  9]
+[DEBUG][greens.go:132]2020/01/08 15:22:24 [获取的category:  true]
+[DEBUG][greens.go:132]2020/01/08 15:26:13 [获取的category:  true]
