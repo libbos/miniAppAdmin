@@ -1,0 +1,70 @@
+body{
+  margin: 0;
+}
+
+/* main区 */
+.main-row-col-head{
+  padding: 10px;
+  border: 1px solid #d5dcff;
+  border-radius: 6px;
+  background: #f6fffa;
+  margin-bottom: 15px;
+}
+.main-table-bottom{
+  width: 100%;
+  padding: 6px 0;
+  background: #f8f8f8;
+  text-align: center;
+}
+.table-h{
+  height: 560px;
+}
+
+
+/* 公共样式 */
+.fl{float: left;}
+.fr{float: right;}
+.ov{overflow: hidden;}.ov-y{overflow-y: auto;}
+.b{display: block;}
+
+/* 长度样式 */
+.w1{width: 100px;}.w2{width: 200px;}.w3{width: 300px;}.w4{width: 400px;}.w5{width: 500px;}
+.w{width: 100%;}.ws{width: 50%;}.w6{width: 600px;}
+.m-w1{min-width: 10px;}.m-w2{min-width: 20px;}.m-w3{min-width: 30px;}.m-w4{min-width: 40px;}.m-w5{min-width: 50px;}
+.x-w1{max-width: 100px;}
+.ml{margin-left: 15px;}.mr{margin-right: 15px;}.mt{margin-top: 15px;}.mb{margin-bottom: 15px;}
+.p{padding: 15px;}
+
+/* 色彩样式 */
+.red{color: red;}
+
+/* dialog样式 */
+.el-dialog__body{
+  padding: 10px;
+}
+
+/* 图片上传样式 */
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 178px;
+  height: 178px;
+  line-height: 178px;
+  text-align: center;
+}
+.avatar {
+  width: 178px;
+  height: 178px;
+  display: block;
+}
+
